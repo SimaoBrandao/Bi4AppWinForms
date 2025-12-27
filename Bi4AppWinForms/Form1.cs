@@ -112,7 +112,7 @@ namespace Bi4AppWinForms
         {
 
             Bi4App bi4App = new Bi4App();
-            var retorno = bi4App.ObterDados(texto);
+            var retorno = bi4App.InterpretarQRCode(texto);
 
             txtNomeCompleto.Text = retorno.NomeCompleto;
             txtNumeroBI.Text = retorno.NumeroBilhete;
