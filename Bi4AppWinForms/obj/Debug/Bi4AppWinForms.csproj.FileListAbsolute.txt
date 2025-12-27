@@ -1,0 +1,10 @@
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\bin\Debug\Bi4AppWinForms.exe.config
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\bin\Debug\Bi4AppWinForms.exe
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\bin\Debug\Bi4AppWinForms.pdb
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\obj\Debug\Bi4AppWinForms.csprojAssemblyReference.cache
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\obj\Debug\Bi4AppWinForms.Form1.resources
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\obj\Debug\Bi4AppWinForms.Properties.Resources.resources
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\obj\Debug\Bi4AppWinForms.csproj.GenerateResource.cache
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\obj\Debug\Bi4AppWinForms.csproj.CopyComplete
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\obj\Debug\Bi4AppWinForms.exe
+C:\Arquivos\Projetos\Bi4App\CSharp\Demonstração\Bi4AppWinForms\Bi4AppWinForms\obj\Debug\Bi4AppWinForms.pdb
