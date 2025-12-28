@@ -1,6 +1,6 @@
 # Bi4App — Projeto de Demonstração (Desktop em C#) 
 
-Este repositório contém o **projeto de demonstração do Bi4App para ambiente Desktop em C#**, criado para servir como **referência técnica e exemplo de implementação** da biblioteca.
+Este repositório contém o **projeto de exemplo de implementação** da biblioteca Bi4App para ambiente Desktop em C#, **criado para servir como **referência técnica**.
 
 O código deste projeto pode ser **copiado e reutilizado em projetos de produção**, conforme a necessidade das equipas de desenvolvimento.
 
@@ -30,8 +30,8 @@ Destina-se ao **uso interno por desenvolvedores**.
 ## 🧩 Tecnologias Utilizadas
 
 * C# / .NET
-* Aplicação Desktop (WinForms ou WPF)
-* Visual Studio 2019 (ou superior)
+* Aplicação Desktop (WinForms)
+* Visual Studio 2019 
 
 ---
 
@@ -83,3 +83,11 @@ Ele funciona como:
 * referência técnica
 * guia de implementação
 * ambiente de teste controlado
+
+## 📬 Contato
+
+*  **Autor:** Simão Brandão
+* **Email:** [sibrandao2008@gmail.com](mailto:sibrandao2008@gmail.com)
+* **WhatsApp:** +244 948 493 828
+* **GitHub:** https://github.com/SimaoBrandao
+* **Linkedin:** https://linkedin.com/in/SimaoBrandao
