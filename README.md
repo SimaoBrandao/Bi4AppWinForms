@@ -1,6 +1,6 @@
-# Bi4App — Projeto de Demonstração (Desktop em C#) 
+# Bi4App — Projeto de Exemplo de Implementação (Desktop em C#) 
 
-Este repositório contém o **projeto de exemplo de implementação** da biblioteca Bi4App para ambiente Desktop em C#, **criado para servir como **referência técnica**.
+Este repositório contém o **projeto de exemplo de implementação** da biblioteca Bi4App para ambiente Desktop em C#, criado para servir como **referência técnica**.
 
 O código deste projeto pode ser **copiado e reutilizado em projetos de produção**, conforme a necessidade das equipas de desenvolvimento.
 
