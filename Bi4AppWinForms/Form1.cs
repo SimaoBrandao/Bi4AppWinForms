@@ -7,10 +7,11 @@ using System.Text;
 using System.Windows.Forms;
 using ZXing;
 
-// Bi4App - Projeto de Demonstração (Desktop em C#)
+// Bi4App - Projeto de Exemplo de implementação (Desktop em C#)
 // Autor: Simão Brandão
 // Email: sibrandao2008@gmail.com 
-// Telemovel: +244 948493828 
+// Telemovel: +244 948 493 828 
+// Linkedin: https://linkedin.com/in/SimaoBrandao 
 // Github: https://github.com/SimaoBrandao/Bi4AppWinForms.git
 // Nuget:  https://www.nuget.org/packages/Bi4App
 // Data: 09/01/2025 
